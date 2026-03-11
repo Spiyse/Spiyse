@@ -8,3 +8,6 @@
     </picture>
   </a>
 </div>
+
+
+<div>{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages}}</div>
